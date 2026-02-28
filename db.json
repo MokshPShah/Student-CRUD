@@ -1,0 +1,22 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "name": "Moksh",
+      "email": "moksh.shah.mps@gmail.com",
+      "phone": "9142536579",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocLaX5NMvGpR2NlEK7q_xdAm0m0z3_NqcuV3SOQSA8ziNDmiJ_bn=s288-c-no",
+      "isDeleted": false
+    },
+    {
+      "id": "1772261462052",
+      "name": "Moksh",
+      "email": "moksh.shah.mps@gmail.com",
+      "phone": "324252345345",
+      "image": "235345634534",
+      "isDeleted": true,
+      "deletedAt": "2026-02-28T07:15:19.266Z"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

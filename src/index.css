@@ -1,0 +1,11 @@
+@import "tailwindcss";
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none; /* For Chrome, Safari, Edge, Opera */
+  margin: 0;               /* Removes any residual margin */
+}
+
+input[type="number"] {
+  -moz-appearance: textfield; /* For Firefox */
+  appearance: textfield;      /* Standard property, becoming widely supported */
+}
